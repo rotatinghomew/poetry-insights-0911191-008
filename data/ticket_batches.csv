@@ -1,0 +1,5 @@
+batch_id,show_id,channel,issued,available,reported_at
+B01,E01,线上,120,115,09:00
+B02,E01,现场,60,60,
+B03,E02,线上,80,78,10:00
+B04,E03,线上,100,100,11:00

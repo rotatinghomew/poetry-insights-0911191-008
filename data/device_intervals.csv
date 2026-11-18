@@ -1,0 +1,5 @@
+terminal,start_minute,end_minute,scanned,uploaded,health
+K1,0,15,32,32,正常
+K1,15,30,28,,离线待传
+K2,0,15,21,21,正常
+K2,15,30,17,12,数据缺段

@@ -1,0 +1,3 @@
+old_show,new_show,ticket_batch,change_type,effective_at
+E01,E02,B01,移场,12:00
+E03,,B04,停开,13:00
